@@ -1,0 +1,5 @@
+name = phpriotapi
+machine name = phpriotapi
+description = Provides an interface to League Of Legends API
+version = 1
+files[php][] = phpriotapi.php
